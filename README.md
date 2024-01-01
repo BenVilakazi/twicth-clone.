@@ -19,7 +19,7 @@ You may also see any errors in the console.
 
 ---
 
-### View demo [here](https://bayirdan.github.io/twitch-clone/)
+### View demo [here](https://twicth-clone-8xp3rrhyw-codexblue.vercel.app/)
 
 ---
 
